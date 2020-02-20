@@ -1,0 +1,27 @@
+2ADS-C
+Italo Rodrigues Da Silva - 1901642
+Vitor Soares De Oliveira - 1901878
+
+Escopo:
+(Necessidade do cliente)
+
+A empresa X precisa desenvolver um carro voador.
+Para viagens de passageiros rapidas por ate 10 dolares.
+O sistema:
+1- o sistema deve ter IA, para controlar o veiculo.
+2- o sistema deve gerar um relatorio da corrida para o passageiro.
+3- o sistema deve identificar o carro mais proximo ao passageiro
+para efetuar a viagens.
+4- o sitema deve mostrar o trajeto e o tempo de chegada ao destino.
+5- o Sistema so podera aceitar pagamento via bitcoins ou debito automatico
+antes de começar a corrida.
+6- o sistema deve ser seguro para evitar acidentes enquanto estiver voando.
+7- o sistema precisa ser o mais facil possivel para o usario solicitar o carro.
+8- o sistema deve calcular o preço para o destino.
+9- o sistema deve avaliar o melhor lugar possivel para efetuar
+   o pouso para evitar acidentes e nao causar transito.
+10-o sistema deve ter identificação do passageiro e do carro.
+
+
+
+	

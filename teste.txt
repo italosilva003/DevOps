@@ -1,0 +1,11 @@
+2ADS-C
+Italo Rodrigues Da Silva - 1901642
+Vitor Soares De Oliveira - 1901878	
+
+Testaremos:
+- a forma de pagamento para nao cobrar a mais ou a menos e nao prejudicar ninguem.
+- a IA, para levar os passageiros com segurança e para lugar certo.
+- o carro para nao acontecer nenhum acidentes.
+- Localização para buscar e levar o cliente para lugar certo.
+- Cadastramento de usuarios para teste do vip 
+- Feedback do app no geral

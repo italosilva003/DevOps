@@ -1,0 +1,9 @@
+2ADS-C
+Italo Rodrigues Da Silva - 1901642
+Vitor Soares De Oliveira - 1901878	
+
+
+ Iremos utilizar uma central de monitoramento, para melhor atender nossos clientes
+teremos o feedback de todas as corridas para podermos melhorar nosso serviço, futuramente
+pretendemos iniciar uma parte do cliente vip para pessoas que utilizão nosso app com 
+grande frequencia. Esse cliente vip tera uma prioridade em horarios de pico ou com alta demanda.

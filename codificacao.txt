@@ -1,0 +1,13 @@
+2ADS-C
+Italo Rodrigues Da Silva - 1901642
+Vitor Soares De Oliveira - 1901878	
+
+Codificações:
+ 
+ Python - Utilizar a parte de IA e tambem a integração com o GPS
+ Banco de Dados - Guardar dados de cadastro do cliente e informções bancarias
+ IA -Watson, automoção do veiculo para ele ser direcionado pelo proprio app
+ Design - Para deixar o app mais facil para todos
+ Localização - Utilizar a localização para dar o valor para a corrida
+ 
+  

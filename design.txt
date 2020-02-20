@@ -1,0 +1,11 @@
+2ADS-C
+Italo Rodrigues Da Silva - 1901642
+Vitor Soares De Oliveira - 1901878	
+
+Linguagens:
+ 
+ Python - Linguangem simples, que pode ser usada tanto para banco de dados quanto IA
+ Banco de Dados - Linguagem facil a gratuita
+ IA - Watson gratuito e simples
+ Design do app - Frameworks em geral e JS, os frameworks "simplificão" o trabalho em algumas partes e ajuda em certos pontos
+ Localização - Gpa do proprio celular ou google maps 
